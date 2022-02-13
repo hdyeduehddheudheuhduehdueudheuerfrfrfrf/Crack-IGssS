@@ -73,7 +73,6 @@ BBlue="\033[1;34m" # Blue
 BPurple="\033[1;35m" # Purple
 BCyan="\033[1;36m" # Cyan
 BWhite="\033[1;37m" # White
-BMagenta="\033[1;38m" # White
 lo = '='
 
 print(BRed+"""
