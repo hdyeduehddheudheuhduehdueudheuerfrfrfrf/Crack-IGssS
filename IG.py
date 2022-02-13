@@ -77,7 +77,11 @@ lo = '='
 
 print(BRed+"""
 
- palabunim
+#------------------------------------------#
+# BY D1MOD                                 #
+# DISCORD SERVER https://discord.gg/d1mod  #
+# 1877 UP                                  #
+#------------------------------------------#
                                                                                  
 """)
 print(' ')
