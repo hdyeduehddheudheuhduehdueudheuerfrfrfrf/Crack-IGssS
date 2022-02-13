@@ -77,24 +77,22 @@ lo = '='
 
 print(BRed+"""
 
-CRACK IG
+ palabunim
                                                                                  
 """)
 print(' ')
-print(BMagnenta+lo*45)
+print(BPurple+lo*45)
 print(' ')                               
-myadmin = input("  "+BBlue+"- ID TELEGGRAM : ")
-tele = input("  "+BBlue+"- TOKEN BOT TELEGRAM IN BOTFATHER :  ")
+myadmin = input("  "+BBlue+"- ID TELEGRAM : ")
+tele = input("  "+BBlue+"- TOKEN BOT TELEGRAM :  ")
 os.system('clear')
 print(BRed+"""
-_______  _______  _______  _______  _         _________ _______ 
-(  ____ \(  ____ )(  ___  )(  ____ \| \    /\  \__   __/(  ____ \
-| (    \/| (    )|| (   ) || (    \/|  \  / /     ) (   | (    \/
-| |      | (____)|| (___) || |      |  (_/ /_____ | |   | |      
-| |      |     __)|  ___  || |      |   _ ((_____)| |   | | ____ 
-| |      | (\ (   | (   ) || |      |  ( \ \      | |   | | \_  )
-| (____/\| ) \ \__| )   ( || (____/\|  /  \ \  ___) (___| (___) |
-(_______/|/   \__/|/     \|(_______/|_/    \/  \_______/(_______)
+_____ ______  ___  _____  _   __    _____ _____ 
+/  __ \| ___ \/ _ \/  __ \| | / /   |_   _|  __ \
+| /  \/| |_/ / /_\ \ /  \/| |/ /______| | | |  \/
+| |    |    /|  _  | |    |    \______| | | | __ 
+| \__/\| |\ \| | | | \__/\| |\  \    _| |_| |_\ \
+ \____/\_| \_\_| |_/\____/\_| \_/    \___/ \____/
    """)
 
 print(BRed+lo*55)
@@ -177,5 +175,5 @@ while True:
         requests.post(f"https://api.telegram.org/bot{tok}/editmessagetext?chat_id={ID}&message_id={id_msg}&text= \n\n palabun \n✔️\n√ @I4m_palabun  |√\
   \n [{zz}]\n-\u300a[{aa}]")
     else:
-        print("  "+BRed+f"  ⌯  D1MOD --> "+BWhite+" :"+BRed+f" {user}:{pasw} ")
+        print("  "+BRed+f"  ⌯  D1MOD "+BWhite+" :"+BRed+f" {user}:{pasw} ")
     
